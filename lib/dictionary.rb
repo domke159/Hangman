@@ -1,6 +1,6 @@
 class Dictionary
-    attr_accessor :valid_dictionary
-    
+  attr_accessor :valid_dictionary
+
   def initialize
     dictionary = File.open('5desk.txt', 'r')
     @valid_dictionary = []

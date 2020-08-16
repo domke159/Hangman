@@ -1,0 +1,4 @@
+--- !ruby/object:Game
+guesses: 5
+word: "DALMATIAN\r\n"
+guess: "DAL_A__AN\r\n"
